@@ -27,7 +27,7 @@ def extract_rare_pos_tags(pos_per_text: List[Tuple[POS]]) -> List[Tuple[POS]]:
     return [bigram[0] for bigram in pos_frequency.most_common()[::-250]]
 
 
-class KopplVectorizer:
+class KoppelVectorizer:
     def __init__(self, features=None, onix_path=None):
         if features is None:
             features = ['stopwords', 'trigrams', 'bigrams', 'rare_pos_tags']
