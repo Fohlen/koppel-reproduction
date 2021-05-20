@@ -1,0 +1,153 @@
+Accent character misused as apostrophe
+Adverb expected
+Agreement error
+'Also' at the end of sentence
+Apostrophe in a decade date
+Architect is a noun, not a verb
+Article missing
+Article unnecessary
+Awkward style
+Bad style
+Capitalization
+Capitalization: words from proper nouns
+Childish language
+Collocation error
+Comma missing
+Comma misuse
+Commonly confused phrase
+Commonly confused term
+Commonly confused word
+Commonly confused words
+Compound adjective + noun: missing hyphen
+Confused word
+delete 'a' / 'an'
+Duplicated phrase
+Emphatic reflexive pronoun
+Extraneous apostrophe
+Extra preposition
+Grammar error
+Grammatical error
+Grammatical mistake
+Grammatical problem
+Grammatical problem: agreement error
+Grammatical problem: equally as
+Grammatical problem: incorrect apostrophe
+Grammatical problem: incorrect modal verb
+Grammatical problem: missing determiner
+Grammatical problem: missing plural noun
+Grammatical problem: missing 'the'
+Grammatical problem: missing 'to'
+Grammatical problem: non-standard comparative/superlative
+Grammatical problem or typo
+Grammatical problem: possible unnecessary 'a/an'
+Grammatical problem: remove 'of'
+Grammatical problem: unnecessary 'a'
+Grammatical problem: unnecessary article
+Grammatical problem: unnecessary 'more'
+Grammatical problem: unnecessary 'more/most'
+Grammatical problem: unnecessary 'most'
+Grammatical problem: unnecessary 'to'
+Grammatical problem: use a gerund
+Grammatical problem: use a noun
+Grammatical problem: use a plural noun
+Grammatical problem: use 'as'
+Grammatical problem: use 'ing'
+Grammatical problem: use 'than'
+Grammatical problem: use the base form
+Grammatical problem: use the infinitive
+Grammatical problem: use 'these'
+Grammatical problem: use 'this'
+Grammatical problem with countable noun
+Grammatical problem with uncountable noun
+Grammatical problem: word order
+Incorrect adverb
+Incorrect decimal separator
+Incorrect phrase
+Incorrect pronoun
+Ligature
+Missing article
+Missing comma
+Missing definite article
+Missing determiner
+Missing hyphen
+Missing hyphen: languages
+Missing hyphens
+Missing possessive apostrophe
+Missing preposition
+Missing punctuation
+Missing 'the'
+Negation after negation
+Non-standard alphabetic character
+Non-standard comma
+Non-standard contraction
+Nonstandard date
+Nonstandard notation of ©
+Nonstandard notation of ®
+Nonstandard notation of ™
+Non-standard phrase
+Nonstandard phrase
+Non-standard question mark
+Nonstandard word
+Noun/verb confusion
+Number starting a sentence
+Passive voice
+Possible agreement error
+Possible collocation error
+Possible grammar error
+Possible grammar error: use to
+Possible grammar problem: ~ing with a stative verb
+Possible grammatical error
+Possible grammatical problem: use the base form
+Possible missing verb
+Possible punctuation error, sentence looks like a fragment
+Possible redundancy
+Possible redundant phrase
+Possible typo
+Possible typo.
+Possible word confusion
+Possible wordiness
+Possible wrong preposition: inspired with
+Possibly bad style
+Possibly demeaning adverb
+Possibly needless word
+Possibly redundant phrase
+Probable typo
+Probable usage error.
+Probably incorrect use of continuous form
+Profanity
+Punctuation error
+Punctuation error, sentence looks like a fragment
+Put currency at the beginning
+Redundant article
+Redundant determiner
+Redundant phrase
+Redundant preposition
+Remove whitespace
+Semantic error
+SI units, plural adjectives
+Slang
+Spurious apostrophe
+Spurious comma
+Style: serial comma is missing
+Translation error
+Two consecutive articles
+Uncountable noun with an article
+Use 'all'
+Use an extreme adjective instead.
+Use an m-dash.
+Use an n-dash.
+Use smart quotes
+Use 'the'
+Use the base form
+Using E-Prime, you should avoid the verb 'to be'.
+Word confusion
+Wordiness
+Wordy phrase
+Wrong collocation
+Wrong date
+Wrong phrase
+Wrong preposition
+Wrong preposition: according to
+Wrong preposition: accustomed to
+Wrong preposition: beware of
+Wrong preposition: exception to
