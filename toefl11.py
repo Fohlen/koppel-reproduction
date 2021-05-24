@@ -49,10 +49,13 @@ The corpus was developed with the specific task of native language identificatio
 For the task of native language identification, the following division is recommended: 82% as training data, 9% as development data and 9% as test data, split according to the file IDs accompanying the data set.
 """
 
+
 @dataclass
 class TOEFL11Config(datasets.BuilderConfig):
     """BuilderConfig for TOEFL11"""
     tokenized: bool = False
+    annotations: bool = False
+
 
 class TOEFL11(datasets.GeneratorBasedBuilder):
     """TOEFL11: ETS Corpus of Non-Native Written English. Version 1.0."""
@@ -60,10 +63,16 @@ class TOEFL11(datasets.GeneratorBasedBuilder):
     BUILDER_CONFIG_CLASS = TOEFL11Config
     BUILDER_CONFIGS = [
         TOEFL11Config(
-            name="plain text",
+            name="plain-text",
             version=datasets.Version("1.0.0", ""),
             description="Plain text"
         ),
+        TOEFL11Config(
+            name="annotated-plain-text",
+            version=datasets.Version("1.0.0", ""),
+            description="Annotated plain text",
+            annotations=True
+        )
     ]
 
     def _info(self) -> datasets.DatasetInfo:
@@ -74,6 +83,9 @@ class TOEFL11(datasets.GeneratorBasedBuilder):
             "Text": datasets.Value("string"),
             "Score Level": datasets.Value("string")
         }
+
+        if self.config.annotations:
+            feature_dict["Annotation"] = datasets.Value("string")
 
         return datasets.DatasetInfo(
             description=_DESCRIPTION,
@@ -95,17 +107,32 @@ class TOEFL11(datasets.GeneratorBasedBuilder):
     def _generate_examples(self, labels):
         labels_file = os.path.join(self.config.data_dir, labels)
         responses_dir = "responses/tokenized" if self.config.tokenized else "responses/original"
+        annotation_dir = "responses/annotation"
         
         with open(labels_file) as csvfile:
             toefl11reader = csv.DictReader(csvfile, fieldnames=["Filename", "Prompt", "Language", "Score Level"])
             for row in toefl11reader:
-                with open(os.path.join(self.config.data_dir, responses_dir, row["Filename"])) as f:
-                    text = f.read()
+                if self.config.annotations:
+                    with open(os.path.join(self.config.data_dir, responses_dir, row["Filename"])) as f, open(os.path.join(self.config.data_dir, annotation_dir, row["Filename"])) as a:
+                        text = f.read()
+                        annotation = a.read()
 
-                    yield row["Filename"], {
-                        "Filename": row["Filename"],
-                        "Prompt": row["Prompt"],
-                        "Language": row["Language"],
-                        "Text": text,
-                        "Score Level": row["Score Level"]
-                    }
+                        yield row["Filename"], {
+                            "Filename": row["Filename"],
+                            "Prompt": row["Prompt"],
+                            "Language": row["Language"],
+                            "Text": text,
+                            "Score Level": row["Score Level"],
+                            "Annotation": annotation
+                        }
+                else:
+                    with open(os.path.join(self.config.data_dir, responses_dir, row["Filename"])) as f:
+                        text = f.read()
+
+                        yield row["Filename"], {
+                            "Filename": row["Filename"],
+                            "Prompt": row["Prompt"],
+                            "Language": row["Language"],
+                            "Text": text,
+                            "Score Level": row["Score Level"]
+                        }
