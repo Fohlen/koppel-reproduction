@@ -1,153 +1,180 @@
-Accent character misused as apostrophe
-Adverb expected
-Agreement error
-'Also' at the end of sentence
-Apostrophe in a decade date
-Architect is a noun, not a verb
-Article missing
-Article unnecessary
-Awkward style
-Bad style
-Capitalization
-Capitalization: words from proper nouns
-Childish language
-Collocation error
-Comma missing
-Comma misuse
-Commonly confused phrase
-Commonly confused term
-Commonly confused word
-Commonly confused words
-Compound adjective + noun: missing hyphen
-Confused word
-delete 'a' / 'an'
-Duplicated phrase
-Emphatic reflexive pronoun
-Extraneous apostrophe
-Extra preposition
-Grammar error
-Grammatical error
-Grammatical mistake
-Grammatical problem
-Grammatical problem: agreement error
-Grammatical problem: equally as
-Grammatical problem: incorrect apostrophe
-Grammatical problem: incorrect modal verb
-Grammatical problem: missing determiner
-Grammatical problem: missing plural noun
-Grammatical problem: missing 'the'
-Grammatical problem: missing 'to'
-Grammatical problem: non-standard comparative/superlative
-Grammatical problem or typo
-Grammatical problem: possible unnecessary 'a/an'
-Grammatical problem: remove 'of'
-Grammatical problem: unnecessary 'a'
-Grammatical problem: unnecessary article
-Grammatical problem: unnecessary 'more'
-Grammatical problem: unnecessary 'more/most'
-Grammatical problem: unnecessary 'most'
-Grammatical problem: unnecessary 'to'
-Grammatical problem: use a gerund
-Grammatical problem: use a noun
-Grammatical problem: use a plural noun
-Grammatical problem: use 'as'
-Grammatical problem: use 'ing'
-Grammatical problem: use 'than'
-Grammatical problem: use the base form
-Grammatical problem: use the infinitive
-Grammatical problem: use 'these'
-Grammatical problem: use 'this'
-Grammatical problem with countable noun
-Grammatical problem with uncountable noun
-Grammatical problem: word order
-Incorrect adverb
-Incorrect decimal separator
-Incorrect phrase
-Incorrect pronoun
-Ligature
-Missing article
-Missing comma
-Missing definite article
-Missing determiner
-Missing hyphen
-Missing hyphen: languages
-Missing hyphens
-Missing possessive apostrophe
-Missing preposition
-Missing punctuation
-Missing 'the'
-Negation after negation
-Non-standard alphabetic character
-Non-standard comma
-Non-standard contraction
-Nonstandard date
-Nonstandard notation of ©
-Nonstandard notation of ®
-Nonstandard notation of ™
-Non-standard phrase
-Nonstandard phrase
-Non-standard question mark
-Nonstandard word
-Noun/verb confusion
-Number starting a sentence
-Passive voice
-Possible agreement error
-Possible collocation error
-Possible grammar error
-Possible grammar error: use to
-Possible grammar problem: ~ing with a stative verb
-Possible grammatical error
-Possible grammatical problem: use the base form
-Possible missing verb
-Possible punctuation error, sentence looks like a fragment
-Possible redundancy
-Possible redundant phrase
-Possible typo
-Possible typo.
-Possible word confusion
-Possible wordiness
-Possible wrong preposition: inspired with
-Possibly bad style
-Possibly demeaning adverb
-Possibly needless word
-Possibly redundant phrase
-Probable typo
-Probable usage error.
-Probably incorrect use of continuous form
-Profanity
-Punctuation error
-Punctuation error, sentence looks like a fragment
-Put currency at the beginning
-Redundant article
-Redundant determiner
-Redundant phrase
-Redundant preposition
-Remove whitespace
-Semantic error
-SI units, plural adjectives
-Slang
-Spurious apostrophe
-Spurious comma
-Style: serial comma is missing
-Translation error
-Two consecutive articles
-Uncountable noun with an article
-Use 'all'
-Use an extreme adjective instead.
-Use an m-dash.
-Use an n-dash.
-Use smart quotes
-Use 'the'
-Use the base form
-Using E-Prime, you should avoid the verb 'to be'.
-Word confusion
-Wordiness
-Wordy phrase
-Wrong collocation
-Wrong date
-Wrong phrase
-Wrong preposition
-Wrong preposition: according to
-Wrong preposition: accustomed to
-Wrong preposition: beware of
-Wrong preposition: exception to
+I_E
+EN_DIACRITICS_REPLACE
+CHILDISH_LANGUAGE
+RUDE_SARCASTIC
+FOR_NOUN_SAKE
+YEAR_OLD_HYPHEN
+MISSING_HYPHEN
+TRANSLATION_RULE
+WRONG_APOSTROPHE
+DOS_AND_DONTS
+EN_COMPOUNDS
+ABBREVIATION_PUNCTUATION
+FEDEX
+LIFE_COMPOUNDS
+AN_AND
+HER_S
+COVID_19
+OTHER_WISE_COMPOUND
+ON_EXCEL
+IF_VB_PCT
+CAUSE_BECAUSE
+MAY_MANY
+BOUT_TO
+HAVE_HAVE
+UPPERCASE_SENTENCE_START
+TO_TOO
+CAR_CARE
+LUV
+DAT
+MAC_OS
+BESTEST
+OFF_OF
+SHELL_COMPOUNDS
+HANDS_ON_HYPHEN
+QUIET_QUITE
+A_OK
+I_A
+GOT_GO
+THERE_FORE
+PRP_NO_VB
+FOLLOW_UP
+IT_SOMETHING
+NO_KNOW
+WILL_BASED_ON
+DON_T_AREN_T
+WILL_BECOMING
+WOULD_NEVER_VBN
+MD_APPRECIATED
+MONEY_BACK_HYPHEN
+WORLDS_BEST
+STEP_COMPOUNDS
+WON_T_TO
+WAN_T
+THE_US
+THE_IT
+THANK_YOU_MUCH
+TO_DO_HYPHEN
+A_NUMBER_NNS
+A_HUNDREDS
+NOW_A_DAYS
+COUPLE_OF_TIMES
+A_WINDOWS
+A_SCISSOR
+A_SNICKERS
+ROUND_A_BOUT
+A_NNS_BEST_NN
+A_BACHELORS_IN
+NEITHER_NOR
+FOR_AWHILE
+A_BUT
+MAY_BE
+BORN_IN
+DO_TO
+CURIOS_CURIOUS
+INCORRECT_POSSESSIVE_APOSTROPHE
+THIS_YEARS_POSSESSIVE_APOSTROPHE
+SPURIOUS_APOSTROPHE
+IN_THIS_REGARDS
+NO_WHERE
+APOSTROPHE_VS_QUOTE
+COMMA_PERIOD
+HERE_HEAR
+LIGATURES
+APPSTORE
+INCORRECT_CONTRACTIONS
+DONT_T
+WHATS_APP
+NON_STANDARD_COMMA
+NON_STANDARD_ALPHABETIC_CHARACTERS
+WONT_CONTRACTION
+YOU_GOOD
+THAN_THANK
+CD_NN_APOSTROPHE_S
+IT_IF
+FINE_TUNE_COMPOUNDS
+WHAT_IS_YOU
+SUPPOSE_TO
+SEEN_SEEM
+PROFANITY
+THE_THEM
+THERE_THEIR
+IT_IS_DEPENDING_ON
+IRREGARDLESS
+MISSING_GENITIVE
+EN_UNPAIRED_BRACKETS
+NEEDS_FIXED
+BLACK_SEA
+A_TO
+MANY_NN
+WE_BE
+A_LOT_OF_NN
+IT_VBZ
+ORDER_OF_WORDS_WITH_NOT
+ADVERB_WORD_ORDER_10_TEMP
+ADVERB_WORD_ORDER
+IT_IS_2
+A_RB_NN
+DT_RB_IN
+VERB_NOUN_CONFUSION
+NOUN_VERB_CONFUSION
+PLURAL_VERB_AFTER_THIS
+BE_RB_BE
+IT_ITS
+ENGLISH_WORD_REPEAT_RULE
+PRP_MD_NN
+NON_ANTI_PRE_JJ
+DT_JJ_NO_NOUN
+AGREEMENT_SENT_START
+HAVE_PART_AGREEMENT
+PREPOSITION_VERB
+EN_A_VS_AN
+CD_NN
+ATD_VERBS_TO_COLLOCATION
+ADVERB_OR_HYPHENATED_ADJECTIVE
+GOING_TO_VBD
+MISSING_PREPOSITION
+BE_TO_VBG
+NON3PRS_VERB
+DID_FOUND_AMBIGUOUS
+BE_I_BE_GERUND
+VBZ_VBD
+SUPERLATIVE_THAN
+UNLIKELY_OPENING_PUNCTUATION
+METRIC_UNITS_EN_IMPERIAL
+METRIC_UNITS_EN_GB
+COMMA_COMPOUND_SENTENCE
+COMMA_COMPOUND_SENTENCE_2
+PRP_RB_NO_VB
+PRP_VBG
+PRP_VBZ
+PRP_VB
+BE_VBP_IN
+BEEN_PART_AGREEMENT
+A_INFINITIVE
+HE_VERB_AGR
+PRP_JJ
+PRONOUN_NOUN
+INDIAN_ENGLISH
+GONNA_TEMP
+PRP_THE
+GONNA
+MORFOLOGIK_RULE_EN_US
+MORFOLOGIK_RULE_EN_GB
+MORFOLOGIK_RULE_EN_CA
+MORFOLOGIK_RULE_EN_ZA
+MORFOLOGIK_RULE_EN_NZ
+MORFOLOGIK_RULE_EN_AU
+TWO_CONNECTED_MODAL_VERBS
+WANT_TO_NN
+QUESTION_WITHOUT_VERB
+SENTENCE_FRAGMENT
+SENTENCE_FRAGMENT_SINGLE_WORDS
+EN_REDUNDANCY_REPLACE
+EN_PLAIN_ENGLISH_REPLACE
+THREE_NN
+SENT_START_NUM
+PASSIVE_VOICE
+EG_NO_COMMA
+IE_NO_COMMA
+REASON_WHY
